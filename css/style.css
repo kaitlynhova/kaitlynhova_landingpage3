@@ -8,6 +8,10 @@ h1{
   color: #333333;
 }
 
+a {
+  color: white !important;
+}
+
 h2{
   letter-spacing: 5px;
 }
@@ -42,7 +46,7 @@ li{
   text-align: center;
   position: relative;
   border-top: 9px solid #1d2121;
-  margin-top: -200px;
+  margin-top: -250px;
 }
 
 /* LEFT BRAIN AREA */
@@ -52,6 +56,22 @@ li{
   color: #f5f5f5;
   padding-top: 50px;
   padding-bottom: 50px;
+}
+
+.leftbrain-btn{
+  background-color: #a38a7e;
+  padding: 13px;
+  padding-bottom: 5px;
+  font-size: 20px;
+  width: 100%;
+  font-family: 'europa';
+  font-weight: 700;
+  max-width: 153px;
+  position: relative;
+  margin: 0 auto;
+  border-bottom: 7px solid #7f747e;
+  border-radius: 6px;
+  margin-top: 23px;
 }
 
 
@@ -73,6 +93,33 @@ li{
   max-width: 350px;
 }
 
+.rightbrain-btn{
+  background-color: #f0bb7a;
+  padding: 13px;
+  padding-bottom: 5px;
+  font-size: 20px;
+  width: 100%;
+  font-family: 'europa';
+  font-weight: 700;
+  max-width: 153px;
+  position: relative;
+  margin: 0 auto;
+  border-bottom: 7px solid #d67234;
+  border-radius: 6px;
+  margin-top: 23px;
+  transition: .5s;
+}
+
+.btn{
+  transition: .5s;
+}
+.btn:hover{
+  opacity: .5;
+}
+
+.rightbrain-btn :hover{
+  opacity: .5 !important;
+}
 
 /* FOOTER*/
 
@@ -92,7 +139,7 @@ li{
   top: 5px;
 }
 
-.fa{
+.footer .fa{
   font-size: 19px;
   color: #1d2121;
   background-color: #525b5a;
@@ -100,4 +147,19 @@ li{
   border-radius: 100px;
   font-size: 21px !important;
   margin: 10px;
+  transition: .5s;
+}
+
+.footer .fa:hover{
+  background-color: #3e4e5b;
+}
+
+.footer .fa-twitter{
+  padding-left: 14px;
+  padding-right: 14px;
+}
+
+.footer .fa-facebook{
+  padding-left: 17px;
+  padding-right: 17px;
 }
