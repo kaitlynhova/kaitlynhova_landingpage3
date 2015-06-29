@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="224px" height="194px" viewBox="0 0 224 194" enable-background="new 0 0 224 194" xml:space="preserve">
+<g id="desktop">
+	<path fill="#D3D1D5" d="M135.21,178.017l-45.936,0.002l3.592-25.324h38.974L135.21,178.017z"/>
+	<path fill="#C0BDC0" d="M137.529,184.041H86.703c-0.451,0-0.817-0.367-0.817-0.818c0-0.156,0.044-0.309,0.129-0.441l3.156-4.928
+		c0.15-0.232,0.41-0.377,0.688-0.377h44.706c0.287,0,0.553,0.15,0.701,0.398l2.962,4.926c0.232,0.387,0.106,0.891-0.279,1.123
+		C137.823,184,137.677,184.041,137.529,184.041z"/>
+	<path fill="#484849" d="M214.281,5.925H9.982c-2.106,0-3.813,1.707-3.813,3.812c0,0,0,126.201,0,127.436h212.036
+		c0-2.166-0.11-127.436-0.11-127.436C218.094,7.632,216.387,5.925,214.281,5.925z"/>
+	<path fill="#FFFFFF" d="M206.538,16.734H17.836c-0.153,0-0.278,0.125-0.278,0.281v107.521c0,0.156,0.125,0.283,0.278,0.283h188.701
+		c0.153,0,0.278-0.127,0.278-0.283V17.015C206.816,16.859,206.691,16.734,206.538,16.734z"/>
+	<path fill="#EBEAEC" d="M214.666,153.925H10.054c-2.109,0-3.83-1.723-3.83-3.826c0,0,0.01-12.508,0.01-12.926h212.026
+		c0,0.197,0,12.926,0,12.926C218.261,152.203,216.775,153.925,214.666,153.925z"/>
+	<circle fill="#D5D4D7" cx="112.243" cy="145.548" r="3.281"/>
+	<circle fill="#636364" cx="112.243" cy="11.414" r="1.273"/>
+</g>
+<text transform="matrix(1 0 0 1 17.5586 32.0996)"><tspan x="0" y="0" fill="#CCCCCC" font-family="'HelveticaNeue-Light'" font-size="17.815">01101100 01100101 01</tspan><tspan x="0" y="21.378" fill="#CCCCCC" font-family="'HelveticaNeue-Light'" font-size="17.815">100110 01110100 0010</tspan><tspan x="0" y="42.756" fill="#CCCCCC" font-family="'HelveticaNeue-Light'" font-size="17.815">0000 01100010 011100</tspan><tspan x="0" y="64.134" fill="#CCCCCC" font-family="'HelveticaNeue-Light'" font-size="17.815">10 01100001 01101001 </tspan><tspan x="0" y="85.512" fill="#CCCCCC" font-family="'HelveticaNeue-Light'" font-size="17.815">01101110 00100001  </tspan></text>
+</svg>

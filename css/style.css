@@ -1,0 +1,103 @@
+/* GENERAL */
+h1{
+  font-family: 'europa';
+  font-weight: 700;
+  text-align: center;
+  letter-spacing: 6px;
+  font-size: 83px;
+  color: #333333;
+}
+
+h2{
+  letter-spacing: 5px;
+}
+
+p {
+  margin: 0 0 10px;
+  font-family: 'europa';
+  font-weight: 300;
+  letter-spacing: 1px;
+}
+
+ul{
+  list-style: none;
+}
+
+li{
+  display: inline-block;
+}
+
+.kaitlyn-hova-photo{
+  width: 100%;
+  max-width: 500px;
+  display: block;
+  margin: 0 auto;
+  position: relative;
+  z-index: -10;
+  margin-top: -144px;
+}
+
+
+#brain-areas{
+  text-align: center;
+  position: relative;
+  border-top: 9px solid #1d2121;
+  margin-top: -200px;
+}
+
+/* LEFT BRAIN AREA */
+
+#left-brain{
+  background-color: #3e4e5b;
+  color: #f5f5f5;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+
+/* RIGHT BRAIN AREA */
+
+#right-brain{
+  background-color: #f16467;
+  color: #f5f5f5;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+#right-brain h2{
+  margin-top: -19px;
+}
+
+.violectra{
+  width: 100%;
+  max-width: 350px;
+}
+
+
+/* FOOTER*/
+
+.footer{
+  background-color: #1d2121;
+  color: #525b5a;
+  padding: 50px 20 80px;
+  height: 200px;
+}
+
+.footer-menu{
+  text-align: right;
+  word-spacing: 20px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  position: relative;
+  top: 5px;
+}
+
+.fa{
+  font-size: 19px;
+  color: #1d2121;
+  background-color: #525b5a;
+  padding: 13px;
+  border-radius: 100px;
+  font-size: 21px !important;
+  margin: 10px;
+}
