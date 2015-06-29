@@ -136,7 +136,7 @@ li{
   font-weight: 700;
   letter-spacing: 1px;
   position: relative;
-  top: 5px;
+  top: 30px;
 }
 
 .footer .fa{
@@ -162,4 +162,22 @@ li{
 .footer .fa-facebook{
   padding-left: 17px;
   padding-right: 17px;
+}
+
+/* MOBILE STYLES */
+@media(max-width:767px){
+  .footer{
+    text-align:center;
+    height: 135px;
+  }
+  .footer-menu {
+    text-align: center;
+    word-spacing: 20px;
+    font-weight: 300;
+    letter-spacing: 3px;
+    position: relative;
+    top: -40px;
+    padding: 0px;
+    font-size: 20px;
+  }
 }
