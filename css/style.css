@@ -10,6 +10,7 @@ h1{
 
 a {
   color: white !important;
+  text-decoration: none !important;
 }
 
 h2{
@@ -148,6 +149,10 @@ li{
   font-size: 21px !important;
   margin: 10px;
   transition: .5s;
+}
+
+.footer a {
+  color: #525b5a !important;
 }
 
 .footer .fa:hover{
