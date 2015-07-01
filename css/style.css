@@ -204,7 +204,7 @@ li{
 @-moz-document url-prefix() {
   @media(max-width:990px){
     footer {
-        margin-top: 134px;
+        margin-top: 212px;
     }
   }
 }
