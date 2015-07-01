@@ -82,7 +82,7 @@ li{
   background-color: #f16467;
   color: #f5f5f5;
   padding-top: 50px;
-  padding-bottom: 50px;
+  padding-bottom: 55px;
 }
 
 #right-brain h2{
@@ -92,6 +92,7 @@ li{
 .violectra{
   width: 100%;
   max-width: 350px;
+  margin-bottom: 13px;
 }
 
 .rightbrain-btn{
