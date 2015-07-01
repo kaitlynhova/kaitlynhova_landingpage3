@@ -200,7 +200,7 @@ li{
   }
 }
 
-
+/* FIREFOX SPECIFIC STYLES */
 @-moz-document url-prefix() {
   @media(max-width:990px){
     footer {
@@ -208,3 +208,12 @@ li{
     }
   }
 }
+
+/* SAFARI SPECIFIC STYLES */
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+    @media(max-width:990px){
+      footer {
+          margin-top: 134px;
+      }
+    }
+	}
