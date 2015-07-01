@@ -217,3 +217,12 @@ li{
       }
     }
 	}
+
+/* CHROME SPECIFIC STYLES */
+  @media all and (-webkit-min-device-pixel-ratio:0) and (min-resolution: .001dpcm) {
+    @media(max-width:990px){
+      footer{
+          margin-top: 180px;
+      }
+    }
+  }
