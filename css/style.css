@@ -133,6 +133,7 @@ li{
   color: #525b5a;
   padding: 50px 20 80px;
   height: 200px;
+  border: 1px solid #1d2121;
 }
 
 .footer-menu{
@@ -226,3 +227,34 @@ li{
       }
     }
   }
+
+/* iPAD SPECIFIC STYLES */
+@media only screen
+and (min-device-width : 768px)
+and (max-device-width : 1024px)  {
+  footer {
+      margin-top: 30px;
+  }
+  #left-brain{
+    height:500px;
+  }
+  .footer-menu {
+    top: 0px;
+  }
+  .footer .fa{
+  	position: relative;
+    top: -15px;
+  }
+}
+
+/* iphone 6 styles */
+@media only screen
+and (min-device-width : 375px)
+and (max-device-width : 667px) {
+  footer{
+    margin-top: 410px;
+  }
+  #left-brain{
+    height: 507px;
+  }
+}
