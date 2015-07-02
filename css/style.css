@@ -177,6 +177,9 @@ li{
     text-align:center;
     height: 135px;
   }
+  h1{
+    font-size: 75px;
+  }
   .footer-menu {
     text-align: center;
     word-spacing: 20px;
