@@ -188,3 +188,16 @@ li{
     font-size: 20px;
   }
 }
+
+/* iPAD SPECIFIC STYLES */
+@media only screen
+and (min-device-width : 768px)
+and (max-device-width : 1024px)  {
+  .footer-menu {
+    top: 0px;
+  }
+  .footer .fa{
+  	position: relative;
+    top: -15px;
+  }
+}
