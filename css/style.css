@@ -47,8 +47,7 @@ li{
   text-align: center;
   position: relative;
   border-top: 9px solid #1d2121;
-  margin-top: -248px;
-  height: 496px;
+  margin-top: -300px;
 }
 
 /* LEFT BRAIN AREA */
@@ -58,7 +57,6 @@ li{
   color: #f5f5f5;
   padding-top: 50px;
   padding-bottom: 50.3px;
-  height: 487px;
 }
 
 .leftbrain-btn{
@@ -85,7 +83,6 @@ li{
   color: #f5f5f5;
   padding-top: 50px;
   padding-bottom: 55px;
-  height: 487px;
 }
 
 #right-brain h2{
@@ -189,72 +186,5 @@ li{
     top: -40px;
     padding: 0px;
     font-size: 20px;
-  }
-}
-
-@media(max-width:990px){
-  #brain-areas{
-      height: 100%;
-  }
-  footer{
-      margin-top: 180px;
-  }
-}
-
-/* FIREFOX SPECIFIC STYLES */
-@-moz-document url-prefix() {
-  @media(max-width:990px){
-    footer {
-        margin-top: 212px;
-    }
-  }
-}
-
-/* SAFARI SPECIFIC STYLES */
-@media screen and (-webkit-min-device-pixel-ratio:0) {
-    @media(max-width:990px){
-      footer {
-          margin-top: 134px;
-      }
-    }
-	}
-
-/* CHROME SPECIFIC STYLES */
-  @media all and (-webkit-min-device-pixel-ratio:0) and (min-resolution: .001dpcm) {
-    @media(max-width:990px){
-      footer{
-          margin-top: 180px;
-      }
-    }
-  }
-
-/* iPAD SPECIFIC STYLES */
-@media only screen
-and (min-device-width : 768px)
-and (max-device-width : 1024px)  {
-  footer {
-      margin-top: 30px;
-  }
-  #left-brain{
-    height:500px;
-  }
-  .footer-menu {
-    top: 0px;
-  }
-  .footer .fa{
-  	position: relative;
-    top: -15px;
-  }
-}
-
-/* iphone 6 styles */
-@media only screen
-and (min-device-width : 375px)
-and (max-device-width : 667px) {
-  footer{
-    margin-top: 410px;
-  }
-  #left-brain{
-    height: 507px;
   }
 }
