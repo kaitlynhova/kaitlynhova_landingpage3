@@ -3,4 +3,5 @@
 - KAITLYN HOVA title
 - Left/Right areas with icons
 - Basic footer with social links
+
 [live link](http://www.kaitlynhova.com/)
